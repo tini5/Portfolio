@@ -1,0 +1,477 @@
+body{
+    margin: 0px;
+    padding: 0px; 
+}
+.navbarlft{
+    width: 100%;
+    height: 109px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;  
+}
+.navbarrait{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    color: #040e27;
+}
+.imgp{
+    display: flex;
+    flex-wrap: wrap;
+}
+.img2,.img3,.img4,.img5,.img6{
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+}
+.img7{
+    width: 100px;
+    height: 109px;
+}
+.img1{
+    width: 138px;
+    height: 41px;
+}
+.australia{
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/banner/xbanner2.png.pagespeed.ic.XXlHdbyWF8.jpg);
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.h1{
+    color: #ffffff;
+    font-family:'Nothing You Could Do', cursive;;
+    margin: 0px;
+    font-size: 60px;
+}
+.p1{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.but1{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 16px;
+    background: #1ec6b6;
+    border: 0px;
+    border-radius: 5px;
+    width: 177px;
+    height: 60px;
+}
+.australia{
+    text-align: center;
+}
+.go{
+    background: #040e27;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.p2{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 30px;
+}
+.inp1,.inp2,.inp3{
+    width: 170px;
+    height: 50px;
+    border: 1px solid #363e52;
+    background: transparent;
+    border-radius: 5px;
+    color: #fff;
+    box-sizing: border-box;
+    margin: 25px;
+}
+.but2{
+    width: 132px;
+    height: 50px;
+    font-size: 16px;
+    font-family: sans-serif;
+    background: #ff4a52;
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 25px;
+}
+.none{
+    width: 100%;
+    height: 90px;
+}
+.populardestination{
+    width: 100%;
+    
+}
+.h2{
+    width: 350x;
+    height: 49px;
+    color:#040e27;
+    font-size: 35px;
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+}
+.p3{
+    width: 450px;
+    height: 84px;
+    color: #7a838b;
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+}
+.img8{
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/destination/x1.png.pagespeed.ic.U57u1BX_9-.webp); 
+}
+.img9{ 
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/destination/x2.png.pagespeed.ic.84P8l8vv4O.webp);
+    
+}
+.img10{
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/destination/x3.png.pagespeed.ic.78W6B32hsk.webp);
+}
+.img11{
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/destination/x4.png.pagespeed.ic.eWKrFKhuKv.webp);
+}
+.img12{
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/destination/x5.png.pagespeed.ic.w9itzKnbmP.webp);
+}
+.img13{
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/destination/x6.png.pagespeed.ic.G2cL_XuMxk.webp);
+}
+.img8,.img9,.img10,.img11,.img12,.img13{
+    width: 289px;
+    height: 216px;
+    background-repeat: no-repeat;
+    margin: 20px;
+    border-radius: 5px;
+}
+.fil8,.fil9,.fil10,.fil11,.fil12,.fil13{
+   background:linear-gradient(to bottom,rgba(4,14,39,0) 0%,rgba(4,14,39,.7) 100%);
+   width: 350px;
+   height: 250px;
+}
+.image{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+.img14{
+    background-image: url(https://preview.colorlib.com/theme/travelo/img/banner/xnewsletter.png.pagespeed.ic.Cg612iEyJd.png);
+    background-size: 100% 100%;
+    height: 200px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.h3{
+    color: black;
+    font-size: 24px;
+    font-family: sans-serif;
+    width: 303px;
+    height: 28px;
+
+}
+.p4{
+    color: black;
+    font-size: 16px;
+    font-family: sans-serif;
+    width: 303px;
+    height: 56px;
+}
+.inp4{
+    
+    width: 317px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 5px;
+}
+.but3{
+    color: #ffffff;
+    background: #ff4a52;
+    font-size: 16px;
+    font-family: sans-serif;
+    border: 0px;
+    border-radius: 5px;
+    width: 109px;
+    height: 50px;
+}
+.h4{
+    width: 350px;
+    height: 49px;
+    color: #040e27;
+    font-size: 35px;
+    font-family: sans-serif;
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+.p5{
+    width: 450px;
+    height: 90px;
+    color: #7a838b;
+    font-size: 16px;
+    font-family: sans-serif;
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+.imga{
+    width: 319px;
+    height: 329px;
+    box-sizing: border-box;
+    margin: 15px;
+    border-radius: 5px;
+}
+.img15{
+    width: 100%;
+}
+.prise{
+    position: absolute;
+    background: #1ec6b6;
+    margin-top: 20px;
+    margin-left: -300px;
+    padding: 7px 18px 4px 18px;
+    border-radius: 18px;
+}
+.h5{
+    color: #040e27;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.p6{
+    color: #7a838b;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.star{
+    width: 15px;
+    height: 15px;
+}
+.review,.days{
+    display: inline-block;
+    color: #7a838b;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.review{
+    margin-right: 55px;
+}
+.clock{
+    width: 12px;
+    height: 12px;
+}
+.image2{
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.but4{
+    color: #ffffff;
+    background: #ff4a52;
+    font-size: 16px;
+    font-family: sans-serif;
+    width: 170px;
+    height: 50px;
+    border: 0px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: block;
+    margin: auto;
+}
+.video{
+    box-sizing: border-box;
+    display: flex;
+}
+.h6{
+    position: absolute;
+    font-size: 70px;
+    font-family:'Nothing You Could Do', cursive;
+    color: #ffffff;
+    
+}
+.train{
+    width: 319px;
+    height: 223px;
+    text-align: center;
+}
+.h7{
+    color: #040e27;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.p7{
+    color: #6e6e6e;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.transport{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.p8{
+    color: #040e27;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.h8{
+    color: #7a838b;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.circle{
+    width: 90%;
+    height: 233px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.h9{
+    color: #040e27;
+    font-size: 35px;
+    font-family: sans-serif;
+    margin-left: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.tripimg{
+    width: 300px;
+    height: 332px;
+    box-sizing: border-box;
+}
+.imgtrip{
+    width: 289px;
+    height: 200px;
+    border-radius: 5px;
+}
+.p10{
+    color: #7a838b;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.h10{
+    color: #040e27;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.trip{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.last{
+    background: #040e27;
+    width: 100%;
+    height: 516px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.plst,.p11,.p12{
+    color: #aab1b7;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.lsttrv{
+    width: 220px;
+    height: 280px;
+}
+.imgf{
+    width: 20px;
+    height: 20px;
+}
+.h11,.h12{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.p13{
+    color: #aab1b7;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.instaimg{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    
+}
+.imginsta{
+    margin: 5px;
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+}
+.insta{
+    width: 240px;
+    height: 272px;
+}
+.h12{
+    display: flex;
+}
+.injvid{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.pp{
+    color: #ffffff;
+    font-size: 22px;
+    font-family: sans-serif;
+    display: inline-block;
+}
+.plc{
+    color: #ffffff;
+    font-size: 12px;
+    font-family: sans-serif;
+    background: #1ec6b6;
+    border-radius: 30px;
+    border: none;
+    box-sizing: border-box;
+}
+.company{
+    height: 280px;
+}
+.popdest{
+    height: 280px;
+}
+/*
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+*/
+@media screen and (max-width:820px){
+   .navbarrait{
+       display: none;
+   }
+
+}
+@media screen and (max-width:820px){
+    .right2{
+        margin-left: 5%;
+    }
+ 
+ }
